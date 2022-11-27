@@ -10,7 +10,8 @@
 
     <color name="beige">#f7c8aa</color>
     <color name="light_beige">#FDDCC6</color>
-    <color name="light_gray">#C1C1C1</color>
+    <color name="slight_light_gray">#FBFBFB</color>
+    <color name="light_gray">#E8E8E8</color>
 
 
 </resources>
