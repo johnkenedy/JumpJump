@@ -3,4 +3,16 @@
 
     <!-- content descriptions-->
     <string name="cd_main_image">black man with a jump rope and a hula hoop around his neck, wearing boxing gloves and holding a racket.</string>
+    <string name="cd_login_image">black man doing a funny pose with his hands on his head, his face is funny too</string>
+
+    <!-- hints -->
+    <string name="hint_e_mail">E-mail</string>
+    <string name="hint_password">Password</string>
+
+    <!-- login -->
+    <string name="login">Login</string>
+    <string name="sing_up">Sing up</string>
+    <string name="forgot_password">Forget password?</string>
+
+
 </resources>
